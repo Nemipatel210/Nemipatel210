@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nemi Patel</h1>
 <h3 align="center">A passionate AI/ML Enthusiast</h3>
 
-- 🔭 I’m currently Studying **MSDS at Rutgers University**
+- 🔭 I’m currently enrolled in **MSDS at Rutgers University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nemipatel210](https://github.com/Nemipatel210)
 
