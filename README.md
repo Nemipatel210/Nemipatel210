@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nemipatel210](https://github.com/Nemipatel210)
 
-- 📫 How to reach me **nemipatel.tech@gmail.com**
+- 📫 How to reach me **nemijpatel@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1v39ZFq3c-H4tImsBanJgWhbY_lkG7-54/view?usp=drive_link](https://drive.google.com/file/d/1o6flnz3GS1AfleOk5kYmKI8f0mjSJxoc/view?usp=drive_link)
 
